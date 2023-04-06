@@ -1,11 +1,10 @@
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 
-import homeworks.seminar1.Task1;
-import homeworks.seminar2.Task2;
-
 public class Main {
     public static void main(String[] args) {
+
+/** Домашние задания для семинара 1 */
 
 //      Task1.sumNumbers();
 //      Task1.sumNumbers2();
@@ -13,6 +12,8 @@ public class Main {
 //      Task1.simpleNums();
 //      Task1.calc();
 
-        Task2.bubbleSort();
+/** Домашние задания для семинара 2 */
+//        Task2.bubbleSort();
+
     }
 }
